@@ -1,0 +1,5 @@
+Local
+1. git status - állapot ellenőrzés
+2. git add "X0LPMG_1012" - feltöltés vagy a több fájl van benne, akkor
+3. git add . -feltölti az összes fájlt, ami az X0LPMG_1012-be van
+4. git commit -m "3 file save" - fel commitoltuk a stage-re
